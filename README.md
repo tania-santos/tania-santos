@@ -1,4 +1,3 @@
-### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=tania-santos&color=red&style=plastic)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tania-santos&theme=violet-punch&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&sideLabels=298EEB&currStreakLabel=EB1B00&ring=EB1B00&currStreakNum=A35DFF&sideNums=A35DFF&fire=A35DFF&dates=EBEBEB)](https://git.io/streak-stats)
