@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=plastic)
+![](https://komarev.com/ghpvc/?username=tania-santos&color=red&style=plastic)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tania-santos&show_icons=true&theme=radical&count_private=true)](https://github.com/tania-santos/github-readme-stats)
 
