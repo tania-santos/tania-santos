@@ -1,6 +1,9 @@
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=your-github-username&color=red&style=plastic)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tania-santos&show_icons=true&theme=radical&count_private=true)](https://github.com/tania-santos/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tania-santos&layout=compact)](https://github.com/tania-santos/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **tania-santos/tania-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
