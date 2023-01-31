@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tania-santos&show_icons=true&theme=radical&count_private=true)](https://github.com/tania-santos/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tania-santos)](https://git.io/streak-stats)
+
 <!--
 **tania-santos/tania-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
